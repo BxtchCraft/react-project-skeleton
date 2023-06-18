@@ -1,6 +1,23 @@
 ## React Project Skeleton (Full Stack)
+This is a React Skeleton Project that provides a basic structure for building full stack React applications.
 
-This is a React Skeleton Project that provides a basic structure for building React applications. It includes the following directories and some examples for files you may want to include:
+### Installation Instructions
+
+1. Clone the repository using the following command:
+   ```
+    git clone BxtchCraft/react-project-skeleton your-project
+   ```
+2. Install dependencies for the React client:
+   ```
+    cd your-project/client
+    npm install
+   ```
+3. Install dependencies for the server side (Node.js):
+   ```
+    cd ../server
+    npm install
+   ```
+
 
 ### React Client Structure:
 ```
