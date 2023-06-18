@@ -1,5 +1,5 @@
 ## React Project Skeleton (Full Stack)
-This is a React Skeleton Project that provides a basic structure for building full stack React applications.
+This is a React Skeleton Project that provides a basic structure for building full stack React applications. Currently, routes are not yet setup, but I will be adding those soon. :) This is bare-bones at the moment, and hopefully it will help since the npx create-react-app has some dependency issues.
 
 ### Installation Instructions
 
