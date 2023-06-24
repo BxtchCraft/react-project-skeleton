@@ -5,7 +5,7 @@ This is a React Skeleton Project that provides a basic structure for building fu
 
 1. Clone the repository using the following command:
    ```
-    git clone BxtchCraft/react-project-skeleton your-project
+    git clone git@github.com:BxtchCraft/react-project-skeleton.git your-project
    ```
 2. Install dependencies for the React client:
    ```
